@@ -7,5 +7,6 @@ Tasks:
 1.Make projcts directory
 2.glone repo
 3.git commit
-4.git push and pull
-5.creating code scripts 
+4.git push 
+5.git pull
+6.creating code scripts 
